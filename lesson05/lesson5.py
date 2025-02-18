@@ -1,6 +1,6 @@
 # Lesson 5
-startMoney = float(input())
-cookie = input()
+startMoney = float(input("Enter the starting money"))
+cookie = input("Enter the cookies")
 
 bigCount = int(0)
 normalCount = int(0)
